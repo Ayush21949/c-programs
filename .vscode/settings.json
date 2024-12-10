@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "SWITCH.C": "cpp",
+        "ALL.C": "cpp",
+        "TWO.C": "cpp",
+        "GCD.C": "cpp"
+    }
+}
